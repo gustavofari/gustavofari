@@ -43,6 +43,6 @@
 
 
 
-[twitter]: https://twitter.com/gustavofari
+[twitter]: https://twitter.com/gusrjj
 [instagram]: https://instagram.com/gusrjj
 [linkedin]: https://linkedin.com/in/gustavo-farias-cc
