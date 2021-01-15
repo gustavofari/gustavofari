@@ -1,11 +1,11 @@
-### Prazer, me chamo Gustavo 👋
+### Pleasure, my name is Gustavo 👋
 
-## Sou um programador front-end! 
+## I'm a front-end programmer!
 
-- 🔭 Gosto de aprender sobre tudo envolvendo tecnologia 😎
-- ⚡ Um fato: Eu amo tocar violão e fazer beats no Fruit Loops (Tento, né 🤣)
+- 🔭 I like to learn about everything involving technology 😎
+- ⚡ Fun fact: I love playing guitar and making beats at Fruit Loops (I try, right 🤣)
 
-### Minhas redes sociais:
+### My social networks:
 
 [<img align="left" alt="gustavofari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gustavofari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,12 +36,11 @@
 <br />
 
 ---
-
 <summary>GitHub status</summary>
-
+<detals>
+  
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gustavofari&show_icons=true&hide_border=true" />
-
-
+</detals>
 
 [twitter]: https://twitter.com/gusrjj
 [instagram]: https://instagram.com/gusrjj
