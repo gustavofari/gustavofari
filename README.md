@@ -36,9 +36,9 @@
 <br />
 
 ---
-<summary>GitHub status</summary>
+
 <details>
-  
+  <summary>👈 GitHub status :zap</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gustavofari&show_icons=true&hide_border=true" />
 </details>
 
