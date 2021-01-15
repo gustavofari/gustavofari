@@ -1,4 +1,4 @@
-### Pleasure, my name is Gustavo 👋
+### Hello, my name is Gustavo 👋
 
 ## I'm a front-end programmer!
 
@@ -37,10 +37,10 @@
 
 ---
 <summary>GitHub status</summary>
-<detals>
+<details>
   
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gustavofari&show_icons=true&hide_border=true" />
-</detals>
+</details>
 
 [twitter]: https://twitter.com/gusrjj
 [instagram]: https://instagram.com/gusrjj
