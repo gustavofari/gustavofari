@@ -34,10 +34,8 @@
 
 ---
 
-<details>
-  <summary>👈 GitHub status ⚡</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gustavofari&show_icons=true&hide_border=true" />
-</details>
+![Gustavofari GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofari&theme=dark&show_icons=true)
+
 
 [twitter]: https://twitter.com/gusrjj
 [instagram]: https://instagram.com/gusrjj
