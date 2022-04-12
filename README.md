@@ -32,6 +32,4 @@
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofari&layout=compact&theme=vision-friendly-dark" alt="gustavo's most languages"/>
 </p>
 
-<br><br>
-
 ---
