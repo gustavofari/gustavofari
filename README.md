@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Farias</h1>
 
-## I'm a Unity Developer!
+## I'm a C# Developer!
 
 - 🔭 I like to learn about everything involving technology 😎
 
