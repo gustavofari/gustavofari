@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Farias</h1>
+<h1 align="left">Hi, I'm Gustavo</h1>
 
-## I'm a React Developer!
+## I'm a Back-end Developer!
 
 - 🔭 I like to learn about everything involving technology 😎
 
@@ -14,10 +14,10 @@
 ### Languages and Tools:
 
 
-![Unity](https://img.shields.io/badge/-UNITY-05122A?style=flat&logo=UNITY)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
