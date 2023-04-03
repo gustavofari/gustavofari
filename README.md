@@ -6,8 +6,7 @@
 
 ### My social networks:
 
-<img align="left" alt="gustavofari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="gustavofari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="gustavofari | LinkedIn" width="22px" src="https://img.icons8.com/color/256/linkedin-circled--v1.png" />
 
 <br />
 
