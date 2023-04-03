@@ -20,7 +20,7 @@
 <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img src ="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" />&nbsp;
-<img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
+<img src ="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;
 <img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 <br><br>
 
