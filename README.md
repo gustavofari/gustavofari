@@ -6,7 +6,7 @@
 
 ### My social networks:
 
-<img align="left" alt="gustavofari | LinkedIn" width="22px" src="https://img.icons8.com/color/256/linkedin-circled--v1.png" />
+<a href="https://www.linkedin.com/in/gustavo-farias-garcia/"><img align="left" alt="gustavofari | LinkedIn" width="22px" src="https://img.icons8.com/color/256/linkedin-circled--v1.png" /></a>
 
 <br />
 
