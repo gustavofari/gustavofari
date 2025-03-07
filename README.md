@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Gustavo</h1>
 
-## I'm a Back-end Developer!
+## I'm a Front-end Developer!
 
 - 🔭 I like to learn about everything involving technology 😎
 
